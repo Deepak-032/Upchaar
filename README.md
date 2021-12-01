@@ -1,8 +1,43 @@
 # Upchaar
 
+A place to get [upchaar](https://upchaar-68a04.web.app/).
+
+# About The Project
+
+The goal of this project is to combat the healthcare challanges faced by rural people. You can visit at https://upchaar-68a04.web.app/home.
+
+## Major services our app provides are:
+
+* Healthcare bot
+* Book your appointment
+* Search nearby clinics
+* Healthcare number
+* NGOs help
+* Donate
+
+## Build with
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
----
+# Getting Started
+
+To run this application locally on your device follow the below steps:
+
+## Prerequisites
+
+You need to have node installed on your device to run this web app.
+
+## Installation
+
+1. Clone the repo using
+    ```sh
+   git clone https://github.com/Deepak-032/Upchaar
+   ```
+
+2. Install NPM packages
+    ```sh
+   npm install
+   ```
 
 ## Available Scripts
 
