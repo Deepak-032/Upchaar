@@ -4,7 +4,7 @@ A place to get [upchaar](https://upchaar-68a04.web.app/).
 
 # About The Project
 
-The goal of this project is to combat the healthcare challanges faced by rural people. You can visit at https://upchaar-68a04.web.app/home.
+The goal of this project is to combat the healthcare challanges faced by rural people. You can visit at https://upchaar-68a04.web.app/.
 
 ## Major services our app provides are:
 
