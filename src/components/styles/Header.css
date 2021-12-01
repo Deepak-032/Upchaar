@@ -1,0 +1,44 @@
+.logo{
+    width: 150px;
+    object-fit: contain;
+}
+.ul{
+    list-style-type: none;
+}
+.ul *{
+    color: #87775a;
+}
+.ul>li div{
+    font-size: 12px;
+}
+.ul>li,
+.ul>li>a{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ul>li:not(:last-child){
+    margin-right: 22px;
+}
+.search>input{
+    color: #87775a;
+    width: 250px;
+    font-size: 12px;
+    border: none;
+    padding: 3px 0;
+    border-bottom: 2px solid #87775a !important;
+}
+.search>input:focus{
+    outline: none;
+}
+.search>input::placeholder{
+    color: #87775a;
+}
+.search>.bi{
+    position: absolute;
+    right: 0;
+    color: #87775a;
+}
+.b_b{
+    border-bottom: 7px solid #4D4646;
+}
