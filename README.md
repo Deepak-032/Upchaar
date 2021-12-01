@@ -14,6 +14,7 @@ The goal of this project is to combat the healthcare challanges faced by rural p
 * Healthcare number
 * NGOs help
 * Donate
+* Change language
 
 ## Build with
 
