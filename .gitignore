@@ -23,6 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # deployment
-.firebase
-.firebaserc
-firebase.json
+/.firebase
+/.firebaserc
+/firebase.json
