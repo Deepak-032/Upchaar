@@ -13,7 +13,7 @@ function Header() {
     }
     return (<>
         <div className="d-flex max_width justify-content-between align-items-center mt-3 mb-3">
-            <Link to="/"><img
+            <Link to="/home"><img
                 className="logo"
                 src="/assets/upchaar.png"
                 alt="logo"
@@ -30,7 +30,7 @@ function Header() {
                 <li>
                     <Link to="/profile">
                         <i class="bi bi-person-circle"></i>
-                        <div>My Profile</div>
+                        <div>{user ? user.email : "My Profile"}</div>
                     </Link>
                 </li>
                 <li onClick={logout} style={{ cursor: "pointer" }}>

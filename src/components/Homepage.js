@@ -81,7 +81,7 @@ function Homepage() {
                     <button className="btn btn-primary" >CONNECT</button>
                 </div>
                 <div className="col-6">
-                    <img src="/assets/Connect.jpg" className="w-100 h-100" />
+                    <img src="/assets/Connect.jpg" alt="" className="w-100 h-100" />
                 </div>
             </div>
             <div className="mt-5 p-5 bg_blue text-center">
@@ -89,7 +89,7 @@ function Homepage() {
             </div>
             <div id="donate" className="border max_width mt-5 d-flex input">
                 <div className="col-6">
-                    <img src="/assets/donate2.jpg" className="w-100 h-100" />
+                    <img src="/assets/donate2.jpg" alt="" className="w-100 h-100" />
                 </div>
                 <div className="col-6 p-3">
                     <div style={{ borderBottom: "4px solid #a2c9c9", width: "80px" }}></div>

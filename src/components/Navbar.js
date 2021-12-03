@@ -15,7 +15,7 @@ function Navbar() {
                     <ul className="navbar-nav me-auto ms-auto">
                         <li className="nav-item active"><a className="navlink" href="/home/#ngo">NGOs HELP</a></li>
                         <li className="nav-item"><a className="navlink" href="/bookappointment">BOOK YOUR APPOINTMENT</a></li>
-                        <li className="nav-item itemShop"><a className="navlink" href="#">PRESCRIPTION</a></li>
+                        <li className="nav-item itemShop"><a className="navlink" href="# ">PRESCRIPTION</a></li>
                         <li className="nav-item"><a className="navlink" href="/map.html">SEARCH CLINICS</a></li>
                         <li className="nav-item"><a className="navlink" href="/home/#connect">CONNECT</a></li>
                         <li className="nav-item"><a className="navlink" style={{ border: "none" }} href="/home/#donate">DONATE</a></li>

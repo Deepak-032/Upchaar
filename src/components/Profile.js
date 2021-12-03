@@ -25,7 +25,7 @@ function Profile() {
                     </div>
                     <div className="mt-2">
                         <h6 className="me-2">Email</h6>
-                        <input type="email" value="" />
+                        <input type="email" value={user.email} />
                     </div>
                     <div className="mt-2">
                         <h6 className="me-2">Mobile Number</h6>
